@@ -6,7 +6,7 @@
 }
 
 .main-container {
-  width: 50%;
+  width: 75%;
 }
 
 header {
@@ -101,4 +101,23 @@ form {
 
 .hide {
   display: none;
+}
+
+@media screen and (max-width: 960px) {
+  .main-container,
+  .add-items-btns-container,
+  form,
+  .list-items-container,
+  .input-add-items {
+    width: 100%;
+  }
+  .add-item-btn {
+    height: 50px;
+    margin-left: 1em;
+  }
+
+  .add-items {
+    width: 90%;
+    margin: 0 auto;
+  }
 }
