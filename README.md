@@ -8,7 +8,7 @@
 
 <div align="center">
   <h3>
-    <a href="https://dubar-jeremy.github.io/to-do-app/index.html">
+    <a href="https://to-do-app.jdubar.fr/">
       Demo
     </a>
     <span> | </span>
